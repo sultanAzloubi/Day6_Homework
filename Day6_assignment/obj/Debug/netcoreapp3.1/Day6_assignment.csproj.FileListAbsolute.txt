@@ -1,0 +1,13 @@
+C:\Users\sulta\source\repos\Day6_assignment\Day6_assignment\bin\Debug\netcoreapp3.1\Day6_assignment.exe
+C:\Users\sulta\source\repos\Day6_assignment\Day6_assignment\bin\Debug\netcoreapp3.1\Day6_assignment.deps.json
+C:\Users\sulta\source\repos\Day6_assignment\Day6_assignment\bin\Debug\netcoreapp3.1\Day6_assignment.runtimeconfig.json
+C:\Users\sulta\source\repos\Day6_assignment\Day6_assignment\bin\Debug\netcoreapp3.1\Day6_assignment.runtimeconfig.dev.json
+C:\Users\sulta\source\repos\Day6_assignment\Day6_assignment\bin\Debug\netcoreapp3.1\Day6_assignment.dll
+C:\Users\sulta\source\repos\Day6_assignment\Day6_assignment\bin\Debug\netcoreapp3.1\Day6_assignment.pdb
+C:\Users\sulta\source\repos\Day6_assignment\Day6_assignment\obj\Debug\netcoreapp3.1\Day6_assignment.csprojAssemblyReference.cache
+C:\Users\sulta\source\repos\Day6_assignment\Day6_assignment\obj\Debug\netcoreapp3.1\Day6_assignment.AssemblyInfoInputs.cache
+C:\Users\sulta\source\repos\Day6_assignment\Day6_assignment\obj\Debug\netcoreapp3.1\Day6_assignment.AssemblyInfo.cs
+C:\Users\sulta\source\repos\Day6_assignment\Day6_assignment\obj\Debug\netcoreapp3.1\Day6_assignment.csproj.CoreCompileInputs.cache
+C:\Users\sulta\source\repos\Day6_assignment\Day6_assignment\obj\Debug\netcoreapp3.1\Day6_assignment.dll
+C:\Users\sulta\source\repos\Day6_assignment\Day6_assignment\obj\Debug\netcoreapp3.1\Day6_assignment.pdb
+C:\Users\sulta\source\repos\Day6_assignment\Day6_assignment\obj\Debug\netcoreapp3.1\Day6_assignment.genruntimeconfig.cache
